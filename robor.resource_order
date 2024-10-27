@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Cenas","order":1,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":2,"path":"folders/Objetos.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Font1","order":5,"path":"fonts/Font1/Font1.yy",},
+    {"name":"espinho","order":2,"path":"objects/espinho/espinho.yy",},
+    {"name":"foguete","order":4,"path":"objects/foguete/foguete.yy",},
+    {"name":"obj_button_start","order":5,"path":"objects/obj_button_start/obj_button_start.yy",},
+    {"name":"wifi","order":1,"path":"objects/wifi/wifi.yy",},
+    {"name":"room2_1","order":2,"path":"rooms/room2_1/room2_1.yy",},
+    {"name":"room2","order":1,"path":"rooms/room2/room2.yy",},
+    {"name":"Room4","order":3,"path":"rooms/Room4/Room4.yy",},
+    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
+  ],
+}
